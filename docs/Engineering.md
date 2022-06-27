@@ -1,6 +1,6 @@
 
 ---
-category: Docs/Trial
+category: _docs/Trial
 share: True
 ---
 
